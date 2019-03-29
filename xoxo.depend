@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1553686974 source:c:\users\sajib roy\desktop\xoxo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<mmsystem.h>
+
+1553686746 source:c:\users\sajib roy\desktop\xoxo\res.rc
+
